@@ -1,7 +1,7 @@
 <footer class="row">
-            <div class="col-md-4">coloum 1</div>
-            <div class="col-md-4">coloum 2</div>
-            <div class="col-md-4">coloum 3</div>
+    <div class="container container-fluid text-center copyright">
+        © Zwe Lwin
+    </div>
         </footer>
     </div>
 
