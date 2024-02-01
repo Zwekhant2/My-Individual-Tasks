@@ -26,7 +26,7 @@ include("header.php");?>
       <th scope="col">No.</th>
       <th scope="col">First Name</th>
       <th scope="col">Last Name</th>
-      <th scope="col">Instagram Account</th>
+      <th scope="col">Twitter</th>
     </tr>
   </thead>
   <tbody>

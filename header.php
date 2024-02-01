@@ -28,6 +28,18 @@
                   <li class="nav-item">
                     <a class="nav-link" href="ex3.php">Ex3</a>
                   </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="ex4.php">Ex4</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="ex5.php">Ex5</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="ex6.php">Ex6</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="ex7.php">Ex7</a>
+                  </li>
                   
                 </ul>
                 <form class="d-flex" role="search">
