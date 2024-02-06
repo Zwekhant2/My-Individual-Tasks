@@ -37,8 +37,14 @@
                   <li class="nav-item">
                     <a class="nav-link" href="ex6.php">Ex6</a>
                   </li>
-                  <li class="nav-item">
-                    <a class="nav-link" href="ex7.php">Ex7</a>
+                  <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                      Ex7
+                    </a>
+                    <ul class="dropdown-menu">
+                      <li><a class="dropdown-item" href="crud/index.php">Create Data</a></li>
+                      <li><a class="dropdown-item" href="crud/read.php">Read Data</a></li>
+                    </ul>
                   </li>
                   
                 </ul>
