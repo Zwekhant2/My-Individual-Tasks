@@ -42,8 +42,8 @@
                       Ex7
                     </a>
                     <ul class="dropdown-menu">
-                      <li><a class="dropdown-item" href="crud/index.php">Create Data</a></li>
-                      <li><a class="dropdown-item" href="crud/read.php">Read Data</a></li>
+                      <li><a class="dropdown-item" href="index.php">Create Data</a></li>
+                      <li><a class="dropdown-item" href="read.php">Read Data</a></li>
                     </ul>
                   </li>
                   
